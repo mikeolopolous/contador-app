@@ -11,6 +11,7 @@ export const App = () => {
 
       <div>
         <p> { edad >= 19 ? `Eres mayor de edad ${nombre}` : `NO eres mayor de edad ${nombre}` } </p>
+        <p> Probando git </p>
       </div>
     </>
 
